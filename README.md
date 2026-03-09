@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm Arnas</h1>
-<p>A developer living in the Netherlands that is interested creating software and learning, i like to focus on the backend. I am currently studying the Techniek College Rotterdam - Software developer. I enjoy trying to really understand what is happening behind abstractions and frameworks.</p>
+<p>A developer living in the Netherlands that is interested creating software and learning. I am currently studying the Techniek College Rotterdam - Software developer.</p>
+<p>I enjoy trying to really understand what is happening behind abstractions and frameworks.</p>
+<p>I always try to learn about new programming tools if I have an opportunity for it.</p>
+<p>Most of my focus right now is on the backend: how to make API's well, how to optimize for hardware by thinking about CPU cache.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
